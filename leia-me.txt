@@ -1,0 +1,7 @@
+Create Database in https://www.mongodb.com/
+
+# Intall package
+pip install -r requirements.txt
+
+Start Server
+uvicorn main:app --reload
